@@ -1,0 +1,2 @@
+rootProject.name='Correct Weight'
+include ':app'
